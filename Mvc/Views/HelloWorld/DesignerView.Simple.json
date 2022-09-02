@@ -1,0 +1,6 @@
+{
+  "priority": 1,
+  "hidden":  false,
+  "components": [ "sf-image-selector", "sf-page-selector" ],
+  "scripts":  ["/lino.js", "/samuel.js"]
+}
